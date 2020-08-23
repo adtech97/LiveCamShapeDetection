@@ -1,5 +1,6 @@
 # LiveCamShapeDetection
-Here I and Pranav made a simple program for Shape Detection Using live cam
+
+Presenting my first project in computer vision which is live came shape detection. In following task was to make the robotic arm recognize the shape and sort the shape additional task was to make robot voice controlled.
 
 
 1. We need to install 'NOOBS' in the raspberry pi
